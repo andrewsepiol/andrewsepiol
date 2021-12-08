@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andrewsepiol
+- 👋 Hi, I’m @snorx
 - 👀 I’m interested in learning rust.
 - 🌱 I’m currently learning python.
 - 📫 How to reach me discord: </snorx>#2550
