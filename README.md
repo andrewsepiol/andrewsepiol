@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @snorx
-- 👀 I’m interested in learning rust.
+- 👋 Hi, I’m @rubennvalente
+- 👀 I’m interested in learning js.
 - 🌱 I’m currently learning python.
 - 📫 How to reach me discord: </snorx>#2550
 
